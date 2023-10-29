@@ -3,7 +3,7 @@
 - ⚡ You just found what you were looking for!
 - 👯 I’m looking to collaborate on Data projects.
 - 🔭 I'm currently working on my Data Science Portfolio.
-- 😄 Glad to see you! Leave a ⭐️ & fork if you see what you like !!!
+- 😄 Thanks for stopping by! Leave a ⭐️ & fork if you see what you like !!!
 
 
 <!--
