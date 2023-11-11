@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 💬 Welcom to my GitHub profile...
-- ⚡ You just found what you were looking for!
-- 👯 I’m looking to collaborate on Data projects.
-- 🔭 I'm currently working on my Data Science Portfolio.
+- ⚡ I’m looking to collaborate on Data projects.
+- 🔭 Currently working on advancing my Data Science Portfolio.
 - 😄 Thanks for stopping by! Leave a ⭐️ & fork if you see what you like !!!
 
 
